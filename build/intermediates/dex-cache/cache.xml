@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Public\Documents\Food_app\app\build\intermediates\exploded-aar\at.blogc\expandabletextview\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="ef04608d24a0788c83950359e7755d4d0c03c558">
+        <dex dex="C:\Users\Public\Documents\Food_app\app\build\intermediates\transforms\dex\debug\folders\1000\10\at.blogc-expandabletextview-1.0.3_871c633a005b0ef0ac72b255046d1dbe54731ae2\classes.dex" />
+    </item>
+
+</items>
