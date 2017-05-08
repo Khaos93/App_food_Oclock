@@ -16,6 +16,9 @@
     <dimen name="title_restaurant">20sp</dimen>
     <dimen name="appbarlayout_height">256dp</dimen>
     <dimen name="bottombar_restaurante_height">35dp</dimen>
+    <dimen name="dime_circle_view">120dp</dimen>
+    <dimen name="dime_top">30dp</dimen>
+    <dimen name="elevation_profile">10dp</dimen>
 
 
 </resources>

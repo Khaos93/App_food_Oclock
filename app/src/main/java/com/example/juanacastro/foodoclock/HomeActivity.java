@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 
-import com.example.juanacastro.foodoclock.view.ContainerActivity;
+import com.example.juanacastro.foodoclock.view.ProfileActivity;
 import com.example.juanacastro.foodoclock.view.RegisterActivity;
 
 public class HomeActivity extends AppCompatActivity {
@@ -27,7 +27,7 @@ public class HomeActivity extends AppCompatActivity {
 
     public void loginAccount (View view){
 
-        Intent intent= new Intent(this, ContainerActivity.class);
+        Intent intent= new Intent(this, ProfileActivity.class);
         startActivity(intent);
 
     }
